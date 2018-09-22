@@ -1,0 +1,6 @@
+csv_merge.exe
+csv_merge
+
+test/*
+!test/*.xlsx
+!test/*.xls
